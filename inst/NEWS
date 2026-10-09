@@ -1,3 +1,9 @@
+changes in version 0.99.45
+
+- setup auto-benchmarks
+- add contribution guidelines
+- code style and efficiency improvements
+
 changes in version 0.99.44
 
 - fixed package down URL per package name change
